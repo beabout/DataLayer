@@ -6,6 +6,7 @@ AR tool providing sports insights during gameplay via voice commands
 Available commands are: "Show (names|fantasy points|injury status|age|position)"
 
 #### Example
+"Show names and fantasy points"
 
 ![image](https://github.com/beabout/DataLayer/assets/22066972/3d44a522-69f4-424d-ad60-b6be08198093)
 
